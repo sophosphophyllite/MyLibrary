@@ -1,6 +1,6 @@
 # MyLibrary
 
-A mobile application built with the framework React Native to manage my favorite anime and manga
+A mobile application built with the React Native framework to manage my favorite anime and manga
 
 # What I Learned
 
